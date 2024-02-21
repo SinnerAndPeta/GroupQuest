@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 D:\git\pr3\Pages\Pages\obj\Debug\
+=======
+C:\Users\Anton\Desktop\GroupQuest\Pages\Pages\obj\Debug\
+>>>>>>> feature/Kirillov
 Pages
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 D:\git\pr3\Pages\Pages\App.xaml
 <<<<<<< HEAD
 2-1830153942
@@ -25,4 +30,14 @@ MainWindow.xaml;Pages\KomovaPages.xaml;
 >>>>>>> Feature/Komova
 
 False
+=======
+C:\Users\Anton\Desktop\GroupQuest\Pages\Pages\App.xaml
+2637663594
+
+7673106510
+13-1310406943
+MainWindow.xaml;Pages\KirillovPage.xaml;
+
+True
+>>>>>>> feature/Kirillov
 

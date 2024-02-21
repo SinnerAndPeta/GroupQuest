@@ -68,15 +68,20 @@
       <SubType>Code</SubType>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Page Include="Pages\MolchanovPages.xaml">
 =======
     <Page Include="Pages\Komova.xaml">
 >>>>>>> Feature/Komova
+=======
+    <Page Include="Pages\KirillovPage.xaml">
+>>>>>>> feature/Kirillov
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <Compile Include="Pages\MolchanovPages.xaml.cs">
       <DependentUpon>MolchanovPages.xaml</DependentUpon>
@@ -84,6 +89,10 @@
     <Compile Include="Pages\Komova.xaml.cs">
       <DependentUpon>Komova.xaml</DependentUpon>
 >>>>>>> Feature/Komova
+=======
+    <Compile Include="Pages\KirillovPage.xaml.cs">
+      <DependentUpon>KirillovPage.xaml</DependentUpon>
+>>>>>>> feature/Kirillov
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
