@@ -1,0 +1,19 @@
+﻿<Window x:Class="Pages.Pages.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pages.Pages"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}">
+        <Label Content="Сложение двух чисел" HorizontalAlignment="Left" Margin="283,109,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="325,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="18"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="325,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="18"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="572,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="18"/>
+        <Button Content="Сложить" HorizontalAlignment="Left" Margin="338,304,0,0" VerticalAlignment="Top" Width="93" FontSize="18" FontWeight="Bold" Click="Button_Click"/>
+        <Label Content="Результат" HorizontalAlignment="Left" Margin="583,164,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Охотников Дмитрий ИС1-43" HorizontalAlignment="Left" Margin="506,29,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

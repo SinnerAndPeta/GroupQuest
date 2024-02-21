@@ -1,0 +1,6 @@
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\Pages.csproj.AssemblyReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\MainWindow.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\Pages\OhotnikovPage.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\App.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\Pages_MarkupCompile.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\1234\GroupQuest-master\Pages\Pages\obj\Debug\Pages_MarkupCompile.lref

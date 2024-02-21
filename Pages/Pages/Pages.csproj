@@ -71,6 +71,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Page Include="Pages\MolchanovPages.xaml">
 =======
     <Page Include="Pages\Komova.xaml">
@@ -84,11 +85,15 @@
 =======
     <Page Include="Pages\TikhonovPage.xaml">
 >>>>>>> feature/Tikhonov
+=======
+    <Page Include="Pages\OhotnikovPage.xaml">
+>>>>>>> feature/Ohotnikov
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -111,6 +116,10 @@
     <Compile Include="Pages\TikhonovPage.xaml.cs">
       <DependentUpon>TikhonovPage.xaml</DependentUpon>
 >>>>>>> feature/Tikhonov
+=======
+    <Compile Include="Pages\OhotnikovPage.xaml.cs">
+      <DependentUpon>OhotnikovPage.xaml</DependentUpon>
+>>>>>>> feature/Ohotnikov
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

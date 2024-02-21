@@ -6,6 +6,7 @@ C#
 .cs
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\git\pr3\Pages\Pages\obj\Debug\
 =======
 C:\Users\Kirill\Desktop\ДОТ\МДК\МДК07.01\GroupQuest\Pages\Pages\obj\Debug\
@@ -13,10 +14,14 @@ C:\Users\Kirill\Desktop\ДОТ\МДК\МДК07.01\GroupQuest\Pages\Pages\obj\Deb
 =======
 E:\Games\Коды C#\GroupQuest\Pages\Pages\obj\Debug\
 >>>>>>> feature/Tikhonov
+=======
+C:\Wp123\GroupQuest-master\Pages\Pages\obj\Debug\
+>>>>>>> feature/Ohotnikov
 Pages
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 D:\git\pr3\Pages\Pages\App.xaml
@@ -55,6 +60,14 @@ MainWindow.xaml;
 >>>>>>> feature/Bugai
 =======
 >>>>>>> feature/Tikhonov
+=======
+C:\Wp123\GroupQuest-master\Pages\Pages\App.xaml
+21536316194
+
+7-54362374
+13-1505183044
+MainWindow.xaml;Pages\OhotnikovPage.xaml;
+>>>>>>> feature/Ohotnikov
 
 True
 
