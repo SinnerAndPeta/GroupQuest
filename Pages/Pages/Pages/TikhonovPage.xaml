@@ -1,0 +1,14 @@
+﻿<Window x:Class="Pages.Pages.TikhonovPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pages.Pages"
+        mc:Ignorable="d"
+        Title="TikhonovPage" Height="450" Width="800">
+    <Grid Background="#FF518FBF">
+        <Button Name="back" Content="Назад" HorizontalAlignment="Left" Margin="718,383,0,0" VerticalAlignment="Top" Height="41" Width="72"/>
+        <Ellipse HorizontalAlignment="Center" Height="79" Stroke="blue" VerticalAlignment="Center" Width="91" Fill="#FFB5CAB6"/>
+
+    </Grid>
+</Window>
