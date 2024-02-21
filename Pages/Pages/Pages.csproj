@@ -70,6 +70,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Page Include="Pages\MolchanovPages.xaml">
 =======
     <Page Include="Pages\Komova.xaml">
@@ -80,11 +81,15 @@
 =======
     <Page Include="Pages\BugaiPage.xaml">
 >>>>>>> feature/Bugai
+=======
+    <Page Include="Pages\TikhonovPage.xaml">
+>>>>>>> feature/Tikhonov
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -102,6 +107,10 @@
     <Compile Include="Pages\BugaiPage.xaml.cs">
       <DependentUpon>BugaiPage.xaml</DependentUpon>
 >>>>>>> feature/Bugai
+=======
+    <Compile Include="Pages\TikhonovPage.xaml.cs">
+      <DependentUpon>TikhonovPage.xaml</DependentUpon>
+>>>>>>> feature/Tikhonov
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

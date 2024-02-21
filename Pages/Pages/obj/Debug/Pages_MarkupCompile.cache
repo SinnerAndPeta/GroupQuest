@@ -5,14 +5,19 @@ winexe
 C#
 .cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\git\pr3\Pages\Pages\obj\Debug\
 =======
 C:\Users\Kirill\Desktop\ДОТ\МДК\МДК07.01\GroupQuest\Pages\Pages\obj\Debug\
 >>>>>>> feature/Bugai
+=======
+E:\Games\Коды C#\GroupQuest\Pages\Pages\obj\Debug\
+>>>>>>> feature/Tikhonov
 Pages
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 <<<<<<< HEAD
 D:\git\pr3\Pages\Pages\App.xaml
 <<<<<<< HEAD
@@ -38,12 +43,18 @@ MainWindow.xaml;Pages\KirillovPage.xaml;
 >>>>>>> feature/Kirillov
 =======
 C:\Users\Kirill\Desktop\ДОТ\МДК\МДК07.01\GroupQuest\Pages\Pages\App.xaml
+=======
+E:\Games\Коды C#\GroupQuest\Pages\Pages\App.xaml
+>>>>>>> feature/Tikhonov
 1219584333
 
 6-502434485
 13-1310406943
 MainWindow.xaml;
+<<<<<<< HEAD
 >>>>>>> feature/Bugai
+=======
+>>>>>>> feature/Tikhonov
 
 True
 

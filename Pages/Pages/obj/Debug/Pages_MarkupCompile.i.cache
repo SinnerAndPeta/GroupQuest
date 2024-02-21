@@ -6,6 +6,7 @@ C#
 .cs
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\git\pr3\Pages\Pages\obj\Debug\
 =======
 C:\Users\Anton\Desktop\GroupQuest\Pages\Pages\obj\Debug\
@@ -13,10 +14,14 @@ C:\Users\Anton\Desktop\GroupQuest\Pages\Pages\obj\Debug\
 =======
 C:\Users\Kirill\Desktop\ДОТ\МДК\МДК07.01\GroupQuest\Pages\Pages\obj\Debug\
 >>>>>>> feature/Bugai
+=======
+E:\Games\Коды C#\GroupQuest\Pages\Pages\obj\Debug\
+>>>>>>> feature/Tikhonov
 Pages
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 D:\git\pr3\Pages\Pages\App.xaml
@@ -55,4 +60,14 @@ MainWindow.xaml;Pages\BugaiPage.xaml;
 
 True
 >>>>>>> feature/Bugai
+=======
+E:\Games\Коды C#\GroupQuest\Pages\Pages\App.xaml
+2-220936544
+
+7-196384740
+13-1310406943
+MainWindow.xaml;Pages\TikhonovPage.xaml;
+
+True
+>>>>>>> feature/Tikhonov
 
