@@ -69,6 +69,7 @@
     </Compile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Page Include="Pages\MolchanovPages.xaml">
 =======
     <Page Include="Pages\Komova.xaml">
@@ -76,11 +77,15 @@
 =======
     <Page Include="Pages\KirillovPage.xaml">
 >>>>>>> feature/Kirillov
+=======
+    <Page Include="Pages\BugaiPage.xaml">
+>>>>>>> feature/Bugai
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <Compile Include="Pages\MolchanovPages.xaml.cs">
@@ -93,6 +98,10 @@
     <Compile Include="Pages\KirillovPage.xaml.cs">
       <DependentUpon>KirillovPage.xaml</DependentUpon>
 >>>>>>> feature/Kirillov
+=======
+    <Compile Include="Pages\BugaiPage.xaml.cs">
+      <DependentUpon>BugaiPage.xaml</DependentUpon>
+>>>>>>> feature/Bugai
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
