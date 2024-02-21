@@ -10,11 +10,19 @@ none
 false
 DEBUG;TRACE
 D:\git\pr3\Pages\Pages\App.xaml
+<<<<<<< HEAD
 2-1830153942
 
 72119923358
 13-1310406943
 MainWindow.xaml;Pages\MolchanovPages.xaml;
+=======
+2568099956
 
-True
+7-2142445600
+13-1310406943
+MainWindow.xaml;Pages\KomovaPages.xaml;
+>>>>>>> Feature/Komova
+
+False
 

@@ -1,5 +1,14 @@
 ﻿
 
+<<<<<<< HEAD
 FD:\git\pr3\Pages\Pages\MainWindow.xaml;;
 FD:\git\pr3\Pages\Pages\Pages\MolchanovPages.xaml;;
+=======
+<<<<<<<< HEAD:Pages/Pages/obj/Debug/Pages_MarkupCompile.i.lref
+FD:\git\pr3\Pages\Pages\Pages\MolchanovPages.xaml;;
+========
+FD:\git\pr3\Pages\Pages\MainWindow.xaml;;
+FD:\git\pr3\Pages\Pages\Pages\Komova.xaml;;
+>>>>>>>> Feature/Komova:Pages/Pages/obj/Debug/Pages_MarkupCompile.lref
+>>>>>>> Feature/Komova
 
